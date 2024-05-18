@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **misbahmuzamal73@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 <p align="left">
 </p>
