@@ -1,3 +1,4 @@
+![Banner](https://github.com/Misbahmuzamal/misbahmuzamal/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Misbah Muzammal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400px" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="">
